@@ -1,1 +1,1 @@
-# ServerIPUpdater
+# dns-manager
